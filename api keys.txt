@@ -1,0 +1,17 @@
+api key 
+OmyN3N9sCgnp806H0bCSFBiRQ
+
+api secret key    
+DVN8Yl8wPgJp8jh4ogttAW7coiGtO5Uqj7bODb4GH3Hzfpvcwp
+
+bearer token
+AAAAAAAAAAAAAAAAAAAAAGZyPgEAAAAAdIcYQHDrHPu%2BxYzFzq4lDySkrko%3DYFzlh8qmXW8gYQnMwyq2J9Ly6NHv1nVHeL3GG5Zz87nZWObf4B
+
+
+Access Token:
+
+1392902822857887747-Fc235ojI9DgH6UvDTO9gJErPwTBdX6
+
+Access Token Secret:
+
+PMbDZDd1sWC4gEnD68CjwwPO1sGcw3XlidDwVftxGHA8E
